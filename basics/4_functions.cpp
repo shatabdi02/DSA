@@ -10,7 +10,7 @@ void doSomething(int &num){
 }
 
 void printName(string name){
-    cout<<"hey "<< name<<endl;
+    cout<<"hey "<<name<<endl;
 }
 int main(){
     // string name;
